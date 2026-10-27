@@ -1,0 +1,33 @@
+# Скомпилированные файлы C++
+*.exe
+*.o
+*.obj
+*.out
+*.pdb
+*.ilk
+*.exp
+*.lib
+
+# Папки сборки Visual Studio
+x64/
+Debug/
+Release/
+.vs/
+
+# Служебные файлы Visual Studio
+*.slnx
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.sln
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Логи
+*.log
